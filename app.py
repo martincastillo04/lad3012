@@ -323,7 +323,9 @@ with st.expander("🔍 Preguntas guia para encontrar tu insight"):
 ---
 **Tu insight ideal:** una frase con TU hallazgo + una frase con TU recomendacion.
 *"Descubri que [HALLAZGO con un dato concreto]. Recomiendo [ACCION concreta] para [RESULTADO esperado]."*
-    """)
+   TU_INSIGHT = """
+Lo que mas me salto al revisar el tablero fue el margen: la tienda vende $1.78M pero solo se queda con 3.1% de utilidad, casi 9 puntos abajo del 12% esperado. Buscando a donde se iba el dinero, encontre que el problema no son las ventas sino los descuentos: las 384 ordenes con mas de 20% de descuento (el 38% del total) en vez de aportar restan unos $90,000, y al cruzarlo por categoria, Furniture es la mas golpeada con margen negativo de -6%. Si tuviera 10 segundos para decidir como gerente, mi recomendacion seria poner un tope de 20% al descuento y que cualquier excepcion la autorice un gerente, empezando por Furniture; con eso la utilidad sube bastante sin vender una sola unidad mas.
+""" """)
 
 # ============================================================
 # 💡 INSIGHT DE NEGOCIO
